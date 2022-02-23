@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633873523 source:e:\c++\vantoc.cpp
+
+1633875432 source:e:\c++\blabla\main.cpp
+	<iostream>
+	<cmath>
+

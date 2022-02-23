@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635993607 source:e:\c++\vovan\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638625460 source:e:\c++\tep\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+

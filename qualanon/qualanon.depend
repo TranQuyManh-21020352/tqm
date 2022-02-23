@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644241319 source:e:\c++\qualanon\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
